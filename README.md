@@ -33,7 +33,7 @@ Masukkan URL website [contoh: https://example.com] : https://kompas.com
 Hasil pencarian email akan ditampilkan di layar dan disimpan di file hasil_email.txt.
 
 `Contoh Output`
-
+```
 [+] Mengambil konten dari: https://kompas.com
 
 [+] Ditemukan 3 alamat email:
@@ -42,3 +42,4 @@ Hasil pencarian email akan ditampilkan di layar dan disimpan di file hasil_email
  - info@kompas.com
 
 [+] Hasil disimpan ke file: hasil_email.txt
+```
